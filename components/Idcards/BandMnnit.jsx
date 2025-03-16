@@ -8,7 +8,7 @@ import InfineraId from './BandInfinera'
 import { Band } from './Band'
 
 extend({ MeshLineGeometry, MeshLineMaterial })
-useGLTF.preload('/shreyastest.glb')
+useGLTF.preload('/sahithyaID.glb')
 useTexture.preload('/tag/mnnit.png')
 
 export default function MnnitId() {
